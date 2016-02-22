@@ -1,0 +1,1 @@
+Para instalação do projeto, basta incluir a pasta "projeto" no diretório de projetos PHP do seu sistema e importar o arquivo "projeto.sql" no MySQL.
